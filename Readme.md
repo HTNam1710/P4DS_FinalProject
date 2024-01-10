@@ -1,4 +1,4 @@
-# I2DS Final Project
+# P4DS Final Project
 
 Final project for Programming for Data Science course - HCMUS 2023. 
 
