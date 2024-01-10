@@ -7,5 +7,5 @@ Members:
 2. Hoang Trung Nam - 21120290
 3. Huynh Cao Khoi - 21120275
 
-Work management resource: [Notion]().
+Group's Notion: [link](https://hickory-adasaurus-926.notion.site/P4DS-Team-a101c7ecbb2341a28d3fafc10164639d)
 
